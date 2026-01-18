@@ -7,5 +7,7 @@ public class Practice_01 {
         System.out.println("your entered number is " + digi);
 
 
+
+
     }
 }
